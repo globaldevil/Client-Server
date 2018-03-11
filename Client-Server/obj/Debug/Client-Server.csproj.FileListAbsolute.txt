@@ -1,0 +1,6 @@
+D:\Lap Trinh\Client-Server\Client-Server\bin\Debug\Client-Server.exe.config
+D:\Lap Trinh\Client-Server\Client-Server\bin\Debug\Client-Server.exe
+D:\Lap Trinh\Client-Server\Client-Server\bin\Debug\Client-Server.pdb
+D:\Lap Trinh\Client-Server\Client-Server\obj\Debug\Client-Server.csprojResolveAssemblyReference.cache
+D:\Lap Trinh\Client-Server\Client-Server\obj\Debug\Client-Server.exe
+D:\Lap Trinh\Client-Server\Client-Server\obj\Debug\Client-Server.pdb
